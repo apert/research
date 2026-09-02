@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syafi\\Downloads\\Research\\Research\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15051CA8-E7F0-4F64-8084-F235023685C2}|Research\\Research.vbproj|c:\\users\\syafi\\downloads\\research\\research\\research\\datacollection.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{15051CA8-E7F0-4F64-8084-F235023685C2}|Research\\Research.vbproj|solutionrelative:research\\datacollection.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15051CA8-E7F0-4F64-8084-F235023685C2}|Research\\Research.vbproj|c:\\users\\syafi\\downloads\\research\\research\\research\\datacollection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{15051CA8-E7F0-4F64-8084-F235023685C2}|Research\\Research.vbproj|solutionrelative:research\\datacollection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15051CA8-E7F0-4F64-8084-F235023685C2}|Research\\Research.vbproj|C:\\Users\\syafi\\Downloads\\Research\\Research\\research\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{15051CA8-E7F0-4F64-8084-F235023685C2}|Research\\Research.vbproj|solutionrelative:research\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15051CA8-E7F0-4F64-8084-F235023685C2}|Research\\Research.vbproj|C:\\Users\\syafi\\Downloads\\Research\\Research\\research\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{15051CA8-E7F0-4F64-8084-F235023685C2}|Research\\Research.vbproj|solutionrelative:research\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataCollection.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\syafi\\Downloads\\Research\\Research\\Research\\DataCollection.aspx.vb",
+              "RelativeDocumentMoniker": "Research\\DataCollection.aspx.vb",
+              "ToolTip": "C:\\Users\\syafi\\Downloads\\Research\\Research\\Research\\DataCollection.aspx.vb",
+              "RelativeToolTip": "Research\\DataCollection.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-22T22:21:40.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataCollection.aspx",
+              "DocumentMoniker": "C:\\Users\\syafi\\Downloads\\Research\\Research\\Research\\DataCollection.aspx",
+              "RelativeDocumentMoniker": "Research\\DataCollection.aspx",
+              "ToolTip": "C:\\Users\\syafi\\Downloads\\Research\\Research\\Research\\DataCollection.aspx",
+              "RelativeToolTip": "Research\\DataCollection.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-22T11:12:53.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\syafi\\Downloads\\Research\\Research\\Research\\login.aspx.vb",
+              "RelativeDocumentMoniker": "Research\\login.aspx.vb",
+              "ToolTip": "C:\\Users\\syafi\\Downloads\\Research\\Research\\Research\\login.aspx.vb",
+              "RelativeToolTip": "Research\\login.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-10T23:13:16.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\syafi\\Downloads\\Research\\Research\\Research\\login.aspx",
+              "RelativeDocumentMoniker": "Research\\login.aspx",
+              "ToolTip": "C:\\Users\\syafi\\Downloads\\Research\\Research\\Research\\login.aspx",
+              "RelativeToolTip": "Research\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-07-10T23:13:11.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
